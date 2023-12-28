@@ -1,6 +1,5 @@
 hello this is my first git.
 
-add new line for test
 
 
 ....
