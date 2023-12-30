@@ -1,0 +1,6 @@
+
+# all the .doc files will be ignored
+*.doc
+
+# all the files inside of temp folder 
+temp/
